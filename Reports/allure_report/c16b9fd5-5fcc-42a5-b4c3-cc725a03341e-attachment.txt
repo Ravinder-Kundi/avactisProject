@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_admin_login.py:18 *************Test_Login***************
+[32mINFO    [0m root:test_admin_login.py:19 *************verifying_click_here***************
+[32mINFO    [0m root:test_admin_login.py:24 *************Pass_click_here***************

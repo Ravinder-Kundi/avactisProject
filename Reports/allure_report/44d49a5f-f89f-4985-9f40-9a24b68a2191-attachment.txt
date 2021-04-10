@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_billing_shipping_cart.py:34 ********* Test Billing form *********
+[32mINFO    [0m root:test_billing_shipping_cart.py:37 ********* Reading Data from Excel *********
+[32mINFO    [0m root:test_billing_shipping_cart.py:55 ************* DDT form data entered ************
+[32mINFO    [0m root:test_billing_shipping_cart.py:63 ********* checkout continue  *********
+[32mINFO    [0m root:test_billing_shipping_cart.py:70 ***** Order placed successfully *******

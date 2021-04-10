@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_shopping_items.py:30 ******* item added to cart  **********

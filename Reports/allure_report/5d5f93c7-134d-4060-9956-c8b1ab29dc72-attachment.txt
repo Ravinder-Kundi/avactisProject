@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_shopping_cart.py:37 ******** Sign in as Register customer ********
