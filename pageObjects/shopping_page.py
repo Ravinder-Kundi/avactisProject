@@ -34,12 +34,12 @@ class Shopping(BasePage):
         return title
 
     def shopping_cart(self):
-        self.is_visble(self.shop_cart)
+        self.is_visible(self.shop_cart)
         self.do_click(self.shop_cart)
 
     def goods_del_cart(self):
         self.do_click(self.shop_cart)
-        cart =self.is_visble(self.del_cart)
+        cart =self.is_visible(self.del_cart)
         if  cart == True:
             self.do_click(self.del_cart)
         else:
