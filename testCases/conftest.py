@@ -2,7 +2,7 @@ from selenium import webdriver
 import pytest
 import pytest_html
 
-@pytest.fixture(params=['chrome'],scope='class')
+@pytest.fixture(params=['edge'],scope='class')
 def init_driver(request):
     if request.param == "edge":
         value = webdriver.Edge(executable_path="resources/msedgedriver.exe")

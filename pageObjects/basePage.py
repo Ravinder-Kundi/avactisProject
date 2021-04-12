@@ -34,7 +34,7 @@ class BasePage:
         actions.move_to_element(element).perform()
 
     def clear_text_field(self,by_locator):
-        element = WebDriverWait(self.driver, 10).until((EC.visibility_of_element_located(by_locator)))
+        element = WebDriverWait(self.driver, 15).until((EC.visibility_of_element_located(by_locator)))
         element.clear()
 
 

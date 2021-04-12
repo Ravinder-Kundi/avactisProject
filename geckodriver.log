@@ -1,0 +1,115 @@
+1618223723770	geckodriver	INFO	Listening on 127.0.0.1:52621
+1618223726801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofilepvkWL5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618223731631	Marionette	INFO	Listening on port 52629
+1618223731700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618223731722	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: http://localhost/avactis/avactis-system/admin/signin.php, line 1: unreachable code after return statement
+JavaScript warning: http://localhost/avactis/avactis-system/admin/signin.php, line 1: unreachable code after return statement
+1618223772898	Marionette	INFO	Stopped listening on port 52629
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618223774492	geckodriver	INFO	Listening on 127.0.0.1:52740
+1618223777534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofilemFkfBu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618223780952	Marionette	INFO	Listening on port 52749
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618223781297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618223781318	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: http://localhost/Avactis/checkout.php, line 560: unreachable code after return statement
+1618223815422	Marionette	INFO	Stopped listening on port 52749
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618223816308	geckodriver	INFO	Listening on 127.0.0.1:52842
+1618223819324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofileq1SONK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618223822593	Marionette	INFO	Listening on port 52850
+1618223823042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618223823059	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+1618223834894	Marionette	INFO	Stopped listening on port 52850
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618223835808	geckodriver	INFO	Listening on 127.0.0.1:52926
+1618223838826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofileU0nEkC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618223842351	Marionette	INFO	Listening on port 52934
+1618223842553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618223842576	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: http://localhost/avactis/avactis-system/admin/signin.php, line 1: unreachable code after return statement
+1618223866009	geckodriver	INFO	Listening on 127.0.0.1:53023
+1618223869032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofilet9EPSo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618223872746	Marionette	INFO	Listening on port 53041
+1618223873240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618223873261	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+1618223898456	Marionette	INFO	Stopped listening on port 53041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618223899231	geckodriver	INFO	Listening on 127.0.0.1:53143
+1618223902261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofile3M5F8l"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618223906104	Marionette	INFO	Listening on port 53155
+1618223906490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618223906508	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript warning: http://localhost/Avactis/checkout.php, line 616: unreachable code after return statement
+1618223987834	geckodriver	INFO	Listening on 127.0.0.1:53318
+1618223990858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofileWjYgYO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618223994344	Marionette	INFO	Listening on port 53326
+1618223994588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618223994607	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
