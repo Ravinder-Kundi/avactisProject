@@ -1,4 +1,4 @@
-pytest -s -v -m "sanity" --alluredir="C:\Users\rubyk\PycharmProjects\avactis automation\Reports\allure_report" testCases/
+python -m pytest -s -v -m "sanity" --alluredir="C:\Users\rubyk\PycharmProjects\avactis automation\Reports\allure_report" testCases/
 
 
 

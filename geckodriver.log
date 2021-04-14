@@ -60,8 +60,9 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1618223842553	Marionette	WARN	TLS certificate errors will be ignored for this session
 1618223842576	Marionette	ERROR	[15] No reply from Marionette:Register
 JavaScript warning: http://localhost/avactis/avactis-system/admin/signin.php, line 1: unreachable code after return statement
-1618223866009	geckodriver	INFO	Listening on 127.0.0.1:53023
-1618223869032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofilet9EPSo"
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618225781455	Marionette	INFO	Stopped listening on port 52934
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofilet9EPSo"
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1618223872746	Marionette	INFO	Listening on port 53041
@@ -96,8 +97,9 @@ JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d8
 JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
 JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
 JavaScript warning: http://localhost/Avactis/checkout.php, line 616: unreachable code after return statement
-1618223987834	geckodriver	INFO	Listening on 127.0.0.1:53318
-1618223990858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofileWjYgYO"
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618225780321	Marionette	INFO	Stopped listening on port 53155
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofileWjYgYO"
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1618223994344	Marionette	INFO	Listening on port 53326
@@ -113,3 +115,44 @@ JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d8
 JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
 JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
 JavaScript error: https://platform.twitter.com/widgets/widget_iframe.e16c6ecf9d86005b77fc7c17beced5d8.html?origin=http%3A%2F%2Flocalhost, line 18: Error: Network error.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618225779412	Marionette	INFO	Stopped listening on port 53326
+1618253044437	geckodriver	INFO	Listening on 127.0.0.1:62057
+1618253047468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofileGiZNU2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618253054566	Marionette	INFO	Listening on port 62067
+1618253054820	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618253054860	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: http://localhost/avactis/avactis-system/admin/signin.php, line 1: unreachable code after return statement
+1618253251549	Marionette	INFO	Stopped listening on port 62067
+8253174144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofileowcpST"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618253180007	Marionette	INFO	Listening on port 62279
+1618253180101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618253180133	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: http://localhost/avactis/avactis-system/admin/signin.php, line 1: unreachable code after return statement
+1618253248184	Marionette	INFO	Stopped listening on port 62279
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618253332874	geckodriver	INFO	Listening on 127.0.0.1:62483
+1618253335936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofileD1zrm2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618253341235	Marionette	INFO	Listening on port 62493
+1618253341349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618253341381	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: http://localhost/avactis/avactis-system/admin/signin.php, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618256315125	Marionette	INFO	Stopped listening on port 62493
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rubyk\\AppData\\Local\\Temp\\rust_mozprofileMPzqCg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618253551272	Marionette	INFO	Listening on port 62787
+1618253551675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618253551707	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: http://localhost/avactis/avactis-system/admin/signin.php, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618256317335	Marionette	INFO	Stopped listening on port 62787

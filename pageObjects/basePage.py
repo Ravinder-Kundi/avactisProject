@@ -14,10 +14,10 @@ class BasePage:
         WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(by_locator)).click()
 
     def do_send_keys(self, by_locator, text):
-        WebDriverWait(self.driver, 15).until(EC.visibility_of_element_located(by_locator)).send_keys(text)
+        WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(by_locator)).send_keys(text)
 
     def get_element_text(self, by_locator):
-        element = WebDriverWait(self.driver, 15).until(EC.visibility_of_element_located(by_locator))
+        element = WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(by_locator))
         return element.text
 
     def is_visible(self, by_locator):
@@ -25,16 +25,16 @@ class BasePage:
         return bool(element)
 
     def get_title(self,title):
-        WebDriverWait(self.driver, 15).until(EC.title_is(title))
+        WebDriverWait(self.driver, 20).until(EC.title_is(title))
         return self.driver.title
 
     def drop_down(self,by_locator):
-        element = WebDriverWait(self.driver, 15).until(EC.visibility_of_element_located(by_locator))
+        element = WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(by_locator))
         actions = ActionChains(self.driver)
         actions.move_to_element(element).perform()
 
     def clear_text_field(self,by_locator):
-        element = WebDriverWait(self.driver, 15).until((EC.visibility_of_element_located(by_locator)))
+        element = WebDriverWait(self.driver, 20).until((EC.visibility_of_element_located(by_locator)))
         element.clear()
 
 
