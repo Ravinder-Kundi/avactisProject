@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_new_order_confirm.py:17 ********** test new order starting *******
+[32mINFO    [0m root:test_new_order_confirm.py:19 ******** test new order verifiing *********
+[32mINFO    [0m root:test_new_order_confirm.py:20 ******** login on admin page  *********
+[32mINFO    [0m root:test_new_order_confirm.py:27 ******** Test new order is passed *******

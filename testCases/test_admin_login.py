@@ -14,7 +14,7 @@ class Test_login(BaseTest):
 
     @allure.severity(allure.severity_level.MINOR)
     def test_click_here(self):
-
+        #self.logger = LogGen.loggen()
         self.logger.info("*************Test_Login***************")
         self.logger.info("*************verifying_click_here***************")
         self.loginPage = LoginPage(self.driver)
