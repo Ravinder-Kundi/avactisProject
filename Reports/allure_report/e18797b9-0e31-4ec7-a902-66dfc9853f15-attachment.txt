@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_register_customer.py:33 **************test_register_customer_ddt*************************
+[32mINFO    [0m root:test_register_customer.py:34 *******  started Register Customer DDT Test **********
+[32mINFO    [0m root:test_register_customer.py:37 ******* Reading data from excel **********
+[32mINFO    [0m root:test_register_customer.py:39 ******* New customer email entered   **********
+[32mINFO    [0m root:test_register_customer.py:54 *******  test_register_customer_ddt , Data added to form  **********

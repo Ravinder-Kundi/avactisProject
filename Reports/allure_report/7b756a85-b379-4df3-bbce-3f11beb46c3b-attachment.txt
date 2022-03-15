@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_login_ddt.py:23 ******* Starting Test_DDT_Login Test **********
+[32mINFO    [0m root:test_login_ddt.py:24 ******* Starting Login DDT Test **********
+[32mINFO    [0m root:test_login_ddt.py:28 ******* Reading data from excel **********
+[32mINFO    [0m root:test_login_ddt.py:37 Login Test Passed
+[32mINFO    [0m root:test_login_ddt.py:52 Login Test Passed
+[32mINFO    [0m root:test_login_ddt.py:52 Login Test Passed
+[32mINFO    [0m root:test_login_ddt.py:52 Login Test Passed

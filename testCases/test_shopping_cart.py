@@ -1,6 +1,5 @@
 import pytest,allure
 from allure_commons.types import AttachmentType
-from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 
 from Utilties.customLogger import LogGen

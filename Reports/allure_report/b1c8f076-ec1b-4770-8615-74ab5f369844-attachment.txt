@@ -1,0 +1,8 @@
+item added to cart
+item added to cart
+item added to cart
+item added to cart
+Your order is placed. Order ID: #00077
+Order details have been sent to your e-mail address.
+Running one time tearDown
+.....Closing browser......

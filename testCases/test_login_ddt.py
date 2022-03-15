@@ -36,9 +36,7 @@ class Test_DDT_Login(BaseTest):
                 if self.driver.title == self.homePage:
                     self.logger.info("Login Test Passed")
                     lst_status.append("Pass")
-                    allure.attach(self.driver.get_screenshot_as_png(), name=" Test DDT Login screen",
-                                  attachment_type=AttachmentType.PNG)
-                    self.driver.save_screenshot(".\\Screenshots\\" + "test_Login_DDT.png")
+
                     self.loginPage.sign_out()
                 else:
                     lst_status.append("Fail")

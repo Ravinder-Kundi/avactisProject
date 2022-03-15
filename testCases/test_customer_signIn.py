@@ -1,10 +1,12 @@
 import allure
 import pytest
 from allure_commons.types import AttachmentType
+
 from Utilties import XLUtils
 from Utilties.customLogger import LogGen
 from pageObjects.register_customer_page import RegisterCustomer
 from testCases.base_test import BaseTest
+
 
 class Test_customer_signIn(BaseTest):
     logger = LogGen.loggen()
@@ -17,7 +19,6 @@ class Test_customer_signIn(BaseTest):
 
         self.c_sign = RegisterCustomer(self.driver)
         self.c_sign.c_sign_in()
-
 
         self.logger.info("********* Test customer sign in started *************")
         self.logger.info("********* Test customer sign in verifying *************")

@@ -1,12 +1,10 @@
-import pytest,allure
+import allure
 from allure_commons.types import AttachmentType
-from selenium import webdriver
+
+from Utilties import XLUtils
 from Utilties.customLogger import LogGen
 from pageObjects.shopping_page import Shopping
 from testCases.base_test import BaseTest
-from pageObjects.billing_shipping_page import Billing
-from Utilties import XLUtils
-from selenium.common.exceptions import NoSuchElementException
 
 
 class Test_shop_asGuest(BaseTest):
@@ -16,7 +14,7 @@ class Test_shop_asGuest(BaseTest):
     @allure.severity(allure.severity_level.NORMAL)
     def test_guest_shopping(self):
         self.pro_rows = XLUtils.getRowCount(self.path, 'Products')
-        for i in range(2, self.pro_rows+1):
+        for i in range(2, self.pro_rows + 1):
             self.menu = XLUtils.readData(self.path, 'Products', i, 1)
             self.submenu = XLUtils.readData(self.path, 'Products', i, 2)
 
@@ -31,4 +29,3 @@ class Test_shop_asGuest(BaseTest):
             self.driver.save_screenshot(".\\Screenshots\\" + "  .png")
             allure.attach(self.driver.get_screenshot_as_png(), name=" Test Shopping item",
                           attachment_type=AttachmentType.PNG)
-

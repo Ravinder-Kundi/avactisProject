@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_shopping_cart.py:37 ******** Sign in as Register customer ******** 
+[32mINFO    [0m root:test_shopping_cart.py:57 ******* item added to cart  **********
+[32mINFO    [0m root:test_shopping_cart.py:57 ******* item added to cart  **********
+[32mINFO    [0m root:test_shopping_cart.py:57 ******* item added to cart  **********
+[32mINFO    [0m root:test_shopping_cart.py:57 ******* item added to cart  **********
+[32mINFO    [0m root:test_shopping_cart.py:70 ***** Order placed successfully *******

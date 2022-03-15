@@ -1,0 +1,2 @@
+[32mINFO    [0m webdrivermanager.misc:base.py:79 Created download root directory: C:\Users\rubyk\Virtual Environmemts\New Venv\WebDriverManager
+[32mINFO    [0m webdrivermanager.misc:base.py:86 Created symlink directory: C:\Users\rubyk\Virtual Environmemts\New Venv\Scripts

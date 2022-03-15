@@ -1,17 +1,15 @@
-import pytest
 import allure
+import pytest
 from allure_commons.types import AttachmentType
-
-from Utilties.customLogger import LogGen
-from testCases.base_test import BaseTest
-from pageObjects.billing_shipping_page import Billing
-from Utilties import XLUtils
 from selenium.common.exceptions import NoSuchElementException
 
+from Utilties import XLUtils
+from Utilties.customLogger import LogGen
+from pageObjects.billing_shipping_page import Billing
+from testCases.base_test import BaseTest
 
 
 class Test_billing_shipping(BaseTest):
-
     logger = LogGen.loggen()
     path = "TestData/guest.xlsx"
 
@@ -35,18 +33,18 @@ class Test_billing_shipping(BaseTest):
         self.billing.cart_btn_click()
         self.billing.checkout_btn_click()
         self.logger.info("********* Reading Data from Excel *********")
-        self.guest = XLUtils.getRowCount(self.path,'Sheet1')
-        print( "number of rows g excel : ", self.guest)
+        self.guest = XLUtils.getRowCount(self.path, 'Sheet1')
+        print("number of rows g excel : ", self.guest)
         try:
             self.billing.check_billing_form()
             for g in range(2, self.guest + 1):
-                self.name= XLUtils.readData(self.path,'Sheet1',g,  1)
+                self.name = XLUtils.readData(self.path, 'Sheet1', g, 1)
                 self.lname = XLUtils.readData(self.path, 'Sheet1', g, 2)
                 self.email = XLUtils.readData(self.path, 'Sheet1', g, 3)
-                self.zcode = XLUtils.readData(self.path,'Sheet1',g, 4)
+                self.zcode = XLUtils.readData(self.path, 'Sheet1', g, 4)
                 self.city = XLUtils.readData(self.path, 'Sheet1', g, 5)
                 self.address = XLUtils.readData(self.path, 'Sheet1', g, 6)
-                self.Phone= XLUtils.readData(self.path,'Sheet1', g, 7)
+                self.Phone = XLUtils.readData(self.path, 'Sheet1', g, 7)
 
                 self.billing.fill_billing_form1(self.name, self.lname, self.email)
 
@@ -77,4 +75,3 @@ class Test_billing_shipping(BaseTest):
                           attachment_type=AttachmentType.PNG)
 
         self.driver.close()
-

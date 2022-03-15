@@ -1,0 +1,4 @@
+[32mINFO    [0m webdrivermanager.misc:base.py:79 Created download root directory: C:\Users\rubyk\Virtual Environmemts\New Venv\WebDriverManager
+[32mINFO    [0m webdrivermanager.misc:base.py:86 Created symlink directory: C:\Users\rubyk\Virtual Environmemts\New Venv\Scripts
+[32mINFO    [0m webdrivermanager.misc:base.py:233 Skipping download. File C:\Users\rubyk\Virtual Environmemts\New Venv\WebDriverManager\chrome\97.0.4692.71\chromedriver_win32.zip already on filesystem.
+[32mINFO    [0m webdrivermanager.misc:base.py:346 File C:\Users\rubyk\Virtual Environmemts\New Venv\Scripts\chromedriver.exe already exists and will be overwritten.

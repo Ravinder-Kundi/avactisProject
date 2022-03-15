@@ -1,0 +1,9 @@
+[32mINFO    [0m WDM:logger.py:26 
+
+[32mINFO    [0m WDM:logger.py:26 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:26 Current google-chrome version is 97.0.4692
+[32mINFO    [0m WDM:logger.py:26 Get LATEST chromedriver version for 97.0.4692 google-chrome
+[32mINFO    [0m WDM:logger.py:26 Driver [C:\Users\rubyk\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+[32mINFO    [0m root:test_register_customer.py:19 *************Test Sign in ***************
+[32mINFO    [0m root:test_register_customer.py:20 *************Verifying Sign in  ***************
+[32mINFO    [0m root:test_register_customer.py:24 *************  test sign in passed ************

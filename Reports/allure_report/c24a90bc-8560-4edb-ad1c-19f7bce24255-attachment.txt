@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_register_customer.py:19 *************Test Sign in ***************
+[32mINFO    [0m root:test_register_customer.py:20 *************Verifying Sign in  ***************
+[32mINFO    [0m root:test_register_customer.py:24 *************  test sign in passed ************

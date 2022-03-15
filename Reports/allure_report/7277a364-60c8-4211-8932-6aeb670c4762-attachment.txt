@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_customer_signIn.py:23 ********* Test customer sign in started *************
+[32mINFO    [0m root:test_customer_signIn.py:24 ********* Test customer sign in verifying *************
+[1m[31mERROR   [0m root:test_customer_signIn.py:40 ******** customer sign in failed ********** 
+[32mINFO    [0m root:test_customer_signIn.py:44 ********* Test customer sign in passed *************
+[32mINFO    [0m root:test_customer_signIn.py:45 ********* Test customer sign in finished  *************
